@@ -1,3 +1,6 @@
+import '@/app/ui/global.css';
+// importing global style in my aplication
+
 export default function RootLayout({
   children,
 }: {
